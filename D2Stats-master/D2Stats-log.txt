@@ -1,0 +1,2 @@
+[HotKey_DropFilter] Injected DropFilter. (error: 0; extended: 0)
+[HotKey_DropFilter] Ejected DropFilter. (error: 0; extended: 0)
